@@ -34,6 +34,12 @@ plugins:
 
 show_excerpts: true
 
+# Including files used to configured Cloudflare Pages
+include:
+  _redirects
+  _headers
+  functions/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
