@@ -36,9 +36,9 @@ show_excerpts: true
 
 # Including files used to configured Cloudflare Pages
 include:
-  _redirects
-  _headers
-  functions/
+  - _redirects
+  - _headers
+  - functions/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
