@@ -9,5 +9,5 @@ We will be working towards making updates to the website and logo over the next 
 As a reminder, you can visit with us at the following places:
 
 * Facebook: [https://facebook.com/K5NSX](https://facebook.com/K5NSX)
-* Github: [https://github.com/k5nsx](https://github.com/k5nsx)
-* Discord: [https://discord.gg/uap4qwJr](https://discord.gg/uap4qwJr)
+* GitHub: [https://github.com/k5nsx](https://github.com/k5nsx)
+* Discord: [https://discord.gg/YHz6zyBE4j](https://discord.gg/YHz6zyBE4j)
