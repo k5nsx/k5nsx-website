@@ -3,12 +3,16 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: facebook
+  icon: 'fab fa-facebook-f'   # icons powered by <https://fontawesome.com/>
+  url:  'https://facebook.com/K5NSX'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: discord
+  icon: "fa-brands fa-discord"
+  url:  'https://discord.gg/uap4qwJr'  
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
