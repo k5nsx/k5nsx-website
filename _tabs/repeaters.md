@@ -15,15 +15,6 @@ Type: MMVDM – D-STAR and YSF modes.
 Equipment: Motorola MTR2000, MMDVM  
 Location: Shinall Mountain, Little Rock, AR  
 
-# K5NSX – DMR – Sherwood
-Frequency: 442.650 +5.000MHz  
-Color Code: 1  
-Type: Digital DMR  
-Equipment: Motorola XPR8400  
-Location: Shinall Mountain, Little Rock, AR  
-Location: Sherwood, AR  
-Remote Linking: [BrandMeister DMR Network](https://brandmeister.network/?page=repeater&id=310501)  
-
 # AC5XV – DMR – Shinall
 Frequency: 443.125 +5.000MHz  
 Color Code: 2  
