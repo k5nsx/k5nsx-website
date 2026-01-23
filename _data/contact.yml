@@ -4,19 +4,16 @@
   icon: "fab fa-github"
 
 - type: facebook
-  icon: 'fab fa-facebook-f'   # icons powered by <https://fontawesome.com/>
-  url:  'https://facebook.com/K5NSX'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+  icon: 'fab fa-facebook-f'
+  url:  'https://facebook.com/K5NSX'
 
 - type: discord
   icon: "fa-brands fa-discord"
-  url:  'https://discord.gg/YHz6zyBE4j'  
-# - type: email
-#   icon: "fas fa-envelope"
-#   noblank: true # open link in current tab
+  url:  'https://discord.gg/YHz6zyBE4j'
 
 - type: rss
   icon: "fas fa-rss"
-  noblank: true
+  noblank: true # open link in current tab
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
