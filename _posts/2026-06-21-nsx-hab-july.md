@@ -5,12 +5,20 @@ author: ae5au
 categories: Balloons
 tags: balloons hab
 ---
-K5NSX will be coordinating a high-altitude balloon launch. The tentative date is Saturday, July 11th.
+K5NSX will be coordinating a high-altitude balloon launch. The date is Saturday, July 11th.
+
+EDIT: We will meet in Carlisle, AR at 9:00 AM CDT. Launch shortly afterward.
+
+Talk-in / chase simplex on 146.55 MHz FM
 
 The payloads for this launch will be:
-* Primary tracker - Horus Binary v3 on 70cm
-* Raspberry Pi camera - storing images to microSD while also sending preview images via 915MHz LoRa
+* Primary tracker
+  * K5NSX - Horus Binary v3 - 432.5 MHz
+  * K5NSX-11 - APRS - 445.975 MHz ~ every minute
 * Secondary tracker - Horus Binary v3 on 70cm
+  * AE5AU - Horus Binary v3 - 432.6 MHz
+* Raspberry Pi camera - storing images to microSD while also sending preview images via 915MHz LoRa
+
 
 We need two main types of assistance...either (or both) would be greatly appreciated.
 1) Tracking from a home/fixed station.
