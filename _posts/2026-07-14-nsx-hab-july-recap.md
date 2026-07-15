@@ -50,6 +50,10 @@ Other than the delay, launch went smoothly. Predictions were for a wide S curve 
 Here was the flight path:
 [![Flight Path](/assets/img/20260711/K5NSX-HAB-20260711-Path.png)](/assets/img/20260711/K5NSX-HAB-20260711-Path.png)
 
+It landed in a line of short trees / scrub brush between two farm fields. There was an elevation difference between the fields that required a bit of effort to bushwhack down to the base of the tree. Seth (KJ5PZP) took one for the team and recovered the payloads with an extension pole.
+
+![Seth (KJ5PZP) recovering the payloads](/assets/img/20260711/KJ5PZP-Retrieval.jpeg)
+
 Herbert was the only one tracking the LoRa payload, but we had several others join in helping track the Horus Binary v3 payloads:
 
 NG5P's station in Sherwood and Herb's station at the launch site both did a great job tracking the primary K5NSX tracker through nearly the entire flight. Longest distance goes to KE5GDB, KI5PGM, and N5COR in the DFW area. KG5FUE and KJ5PZP were able to get some practice tracking the payloads from portable stations. AE5AU-R was a full Chasemapper setup and was close by to capture the landing (and a little bit of driving afterward...whoops!)
